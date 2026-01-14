@@ -1,0 +1,45 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768391569.379209,
+    "completed_at": 1768391575.660975,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768391703.701527,
+    "completed_at": 1768391707.103737,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768390528.774318,
+    "completed_at": 1768390530.858288,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768389969.32575,
+    "completed_at": 1768389973.03673,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768390011.980173,
+    "completed_at": 1768390013.876401,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
